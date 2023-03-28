@@ -1,0 +1,6 @@
+new:1 Unchecked runtime.lastError: The message port closed before a response was received.
+new:1 Unchecked runtime.lastError: The message port closed before a response was received.
+new:1 Access to fetch at 'http://localhost:5000/notes' from origin 'http://notesapp-v1.dicodingacademy.com' has been blocked by CORS policy: The request client is not a secure context and the resource is in more-private address space `local`.
+localhost:5000/notes:1          Failed to load resource: net::ERR_FAILED
+new:1 Access to fetch at 'http://localhost:5000/notes' from origin 'http://notesapp-v1.dicodingacademy.com' has been blocked by CORS policy: The request client is not a secure context and the resource is in more-private address space `local`.
+localhost:5000/notes:1          Failed to load resource: net::ERR_FAILED
